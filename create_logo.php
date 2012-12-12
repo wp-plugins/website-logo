@@ -52,7 +52,7 @@ function add_logo_init()
 					update_option('add_alt',$_POST['alt']);
 					$logo_title=get_option('add_title');
 					$logo_title=get_option('add_alt');
-					update_option('add_logo_path',$url.'/Manage_Site_Logo/images/'.$image);
+					update_option('add_logo_path',$url.'/website-logo/images/'.$image);
 					update_option('add_logo_filename',$image);
 
 				}

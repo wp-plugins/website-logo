@@ -17,7 +17,7 @@ We're keeping things as small and light as possible while still allowing for gre
 
 == Installation ==
 
-1. Place the 'Manage Website Logo' folder in your '/wp-content/plugins/' directory.
+1. Put the 'Website Logo' folder in your '/wp-content/plugins/' directory.
 2. Activate Website Logo plugin through the 'Plugins' menu in WordPress.
 3. Visit 'Settings > Manage site logo' and upload your website logo image.
 4. Adjust the CSS of your theme as needed, to make everything pretty.
