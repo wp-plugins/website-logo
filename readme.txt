@@ -34,7 +34,7 @@ please contact us on http://www.raveinfosys.com/contact-rave-infosys/
 
 == Screenshots ==
 
-1. screenshot.png
+1. Upload Your Website Logo
 
 == Changelog ==
 

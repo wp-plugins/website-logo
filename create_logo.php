@@ -3,6 +3,7 @@
 Plugin Name: Manage Site Logo
 Plugin URI:	 www.raveinfosys.com
 Description: Help you to manage your Website Logo
+Version:	 1.0
 Author:		 Rave Infosys
 Author URI:	 www.raveinfosys.com
 */
